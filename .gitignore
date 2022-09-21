@@ -1,0 +1,11 @@
+node/node_modules
+node/package-lock.json
+node/.DS_Store
+node/build
+node/dist
+react/node_modules
+react/package-lock.json
+react/build
+react/dist
+react/.DS_Store
+.DS_Store
